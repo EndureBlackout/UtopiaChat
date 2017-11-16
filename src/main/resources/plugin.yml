@@ -1,0 +1,8 @@
+name: UtopiaChat
+main: me.endureblackout.UtopiaChat.ChatMain
+version: 1.0
+description: Custom chat handeling plugin.
+author: [EndureBlackout]
+commands:
+  msg:
+    description: Message other online users
